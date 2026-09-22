@@ -1,0 +1,30 @@
+Arquivos de sistema do Python
+
+pycache/
+*.py[cod]
+*$py.class
+
+Banco de dados
+
+*.db
+*.sqlite3
+db/
+
+Ambientes virtuais
+
+venv/
+.venv/
+env/
+.env
+
+Arquivos de editores/IDE
+
+.vscode/
+.idea/
+*.swp
+
+Logs e arquivos do sistema operacional
+
+*.log
+.DS_Store
+Thumbs.db
